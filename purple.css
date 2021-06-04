@@ -3,6 +3,7 @@
     --primary-color: #702459;
     --header-back: #874f5e;
     --header-text: #eee;
+    --body-text: #000000;
   }
   
   body {
@@ -20,6 +21,6 @@
   }
 
   .text {
-    font-family: garamond ;
-    color: #fed7e2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color: #702459;
 }

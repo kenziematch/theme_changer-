@@ -3,6 +3,7 @@
     --primary-color: #000000;
     --header-back: #5d5d5d;
     --header-text: #eee;
+    --body-text: #702459;
     
 }
 
@@ -22,5 +23,5 @@ header {
 
 .text {
     font-family: brush Script mt  ;
-    color: #000000;
+    color: #702459;
 }

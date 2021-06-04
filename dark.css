@@ -1,8 +1,9 @@
 :root {
-  --back-color: #c3dafe;
-  --primary-color: #3c366b;
-  --header-back: #5f718d;
+  --back-color: #81899b;
+  --primary-color: #f9ffee;
+  --header-back: #1a1d24;
   --header-text: #eee;
+  --body-text: #eee;
 }
 
 body {
@@ -20,6 +21,6 @@ header {
   }
 
   .text {
-      font-family: monospace;
+      font-family: 'Times New Roman', Times, serif;
       color: #eee;
   }
